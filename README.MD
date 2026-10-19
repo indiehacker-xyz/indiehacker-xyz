@@ -13,3 +13,6 @@
 
 #### niliy - [Github](https://github.com/niliy01)
 * [ChatGPTTokenManage](https://www.gpttokenmanager.com/): GPTTokenManage | Easily track the length of your ChatGPT conversations with the Chrome extension
+
+#### Qingdong Zhang - [Github](https://github.com/copyboy)
+* [iiss.ai](https://iiss.ai/): AI Video Maker | Turn text prompts or still images into short videos - text-to-video, image-to-video, B-roll generator
